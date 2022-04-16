@@ -1,0 +1,28 @@
+{
+    "name": "viernes",
+    "displayName": "Viernes",
+    "description": "Tema creado un viernes",
+    "version": "0.0.1",
+    "publisher": "jaysonvinasco",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Viernes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Viernes-color-theme.json"
+            }
+        ]
+    },
+    "icon": "icons/viernes.png",
+    "author": {
+        "name": "Jayson Vinasco",
+        "email": "jaysonvinasco@gmail.com",
+        "url": "https://platzi.com/p/jaysonvinasco/"
+    }
+}
